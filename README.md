@@ -3,7 +3,7 @@
 Calculate your profits on any nft collection simply using the easy to use discord bot
 
 <p align="center">
-  <img src="[https://i.imgur.com/ZoH2UBE.png](https://imgur.com/a/DkFf8o7)" alt="Panda Robotics UI" width="738">
+  <img src="https://i.imgur.com/T6SaRqm.png" alt="Panda Robotics UI" width="738">
 </p>
 
-![image](https://github.com/R0B3R799/NFT_PROFIT_CALCULATOR/assets/52356169/b8f7d267-9a6f-44d8-a174-93af221ddc8b)
+
