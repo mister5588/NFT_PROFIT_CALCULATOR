@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/T6SaRqm.png" alt="Panda Robotics UI" width="738">
-</p>
-
 
 # NFT Profit Calculator
 
@@ -20,3 +16,7 @@ Bot Commands:
 ### Add wallets
     TODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDO
 
+
+<p align="center">
+  <img src="https://i.imgur.com/T6SaRqm.png" alt="Panda Robotics UI" width="738">
+</p>
