@@ -16,6 +16,7 @@ Bot Commands:
 ### 4. Add Wallets Command:
     TODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDOTODOTODOTODOTDO
 
+<br/><br/>
 
 <p align="center">
   <img src="https://i.imgur.com/T6SaRqm.png" alt="Panda Robotics UI" width="738">
