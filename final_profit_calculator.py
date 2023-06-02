@@ -1,16 +1,17 @@
 import requests
-from profit_webhook import NFTWebhook
-from profit_calculations import NFTCalculations
-from opensea_data import NFTOpensea
+from utils.profit_webhook import NFTWebhook
+from utils.profit_calculations import NFTCalculations
+from api_calls.opensea_data import NFTOpensea
 import asyncio
 import time
 import aiohttp
 from typing import Dict, Tuple, Optional, Callable, List, Iterable, Union
-from data_objects import User_Info, User_Data
-from request_componesnts import NFTProfitParams, NFTProfitHeaders
+from utils.data_objects import User_Info, User_Data
+from utils.request_componesnts import NFTProfitParams, NFTProfitHeaders
 from ratelimit import limits, RateLimitException, sleep_and_retry
 
-from settings import ETHERSCAN_API_KEY
+from constants.settings import ETHERSCAN_API_KEY
+
 
 ONE_SECOND = 1
 MAX_CALLS_PER_SECOND = 15

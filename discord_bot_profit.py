@@ -1,11 +1,11 @@
 import discord
 from final_profit_calculator import NFTProfit
-from multi_wallet import NFTWallets
+from api_calls.multi_wallet import NFTWallets
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 import asyncio
-from settings import FIREBASE_DATABASE_URL, DISCORD_BOT_KEY
+from constants.settings import FIREBASE_DATABASE_URL, DISCORD_BOT_KEY
 
 
 class NFTProfitDiscordBot:
