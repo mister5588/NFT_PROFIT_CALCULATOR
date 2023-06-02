@@ -27,7 +27,7 @@ This is a discord bot that is for calculating profits after all fees and gas hel
 
 ### 3. populate settings.py with needed keys ( a discord bot will need to be made [here](https://discord.com/developers/applications) guides are availiable online)
 
-### 4. you are ready to run and enjoy the bot :)
+### 4. you are ready to run and enjoy the bot :) (run discord_bot_profit.py)
 
 <br/><br/>
 
